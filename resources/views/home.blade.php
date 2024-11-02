@@ -12,7 +12,7 @@
     <nav class="row padding-2 bg-midnight-blue white space-between align-center">
         <header class="column">
             <h1 class="f-size-3-5">OneLyfe</h1>
-            <h2 class="f-size-1">The Work / Life Balanace Calculator</h2>
+            <h2 class="f-size-1">The Work / Life Balance Calculator</h2>
         </header>
 
         <div class="column align-center">
