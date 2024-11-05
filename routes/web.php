@@ -8,6 +8,9 @@ use App\Http\Controllers\Calculator;
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/balance', function () {
+    return view('balance');
+});
 
 
 

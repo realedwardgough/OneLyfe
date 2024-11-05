@@ -1,4 +1,4 @@
-# Work/Life Balance Calculator
+# OneLyfe
 
 A simple web application built with Laravel that helps users assess their work/life balance by calculating a balance score based on their work, leisure, and sleep hours. The application provides feedback and suggestions for improving balance based on user input.
 
